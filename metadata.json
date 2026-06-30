@@ -1,0 +1,8 @@
+{
+  "name": "B AI",
+  "description": "A professional AI assistant capable of answering questions, writing code, and managing user credits.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
